@@ -5,3 +5,4 @@ Proposed Speakers - Horn
 - What's So Sacred About Exponential Horns?, D. B. Keele, Jr., AES Preprint #1038
 - Low-Frequency Horn Design Using Thiele/Small Driver Parameters, D. B. Keele, Jr., AES Preprint #1250
 - Suitability of Low-Frequency Drivers for Horn-Loaded Loudspeaker Systems, Richard H. Small, AES Preprint #1251
+- fucking testing
