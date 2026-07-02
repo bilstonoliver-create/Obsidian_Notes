@@ -1,0 +1,2 @@
+# Obsidian_Notes
+Notetaking
